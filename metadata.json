@@ -1,0 +1,5 @@
+{
+  "name": "SegmentAI - Intelligent Image Annotation",
+  "description": "A professional image segmentation tool featuring Foreground/Background separation, instance labeling, and AI-assisted object detection using Gemini.",
+  "requestFramePermissions": []
+}
